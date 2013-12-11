@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title><![CDATA[竹隐江南]]></title>
   <subtitle><![CDATA[桃花坞里桃花庵，桃花庵下桃花仙。桃花仙人种桃树，又摘桃花换酒钱。]]></subtitle>
-  <link href="http://www.dengzy.com/atom.xml" rel="self"/>
-  <link href="http://www.dengzy.com"/>
-  <updated>2013-12-11T07:06:41.292Z</updated>
-  <id>http://www.dengzy.com/</id>
+  <link href="http://dengzy.com/atom.xml" rel="self"/>
+  <link href="http://dengzy.com"/>
+  <updated>2013-12-11T07:22:23.036Z</updated>
+  <id>http://dengzy.com/</id>
   <author>
     <name><![CDATA[BambooJN]]></name>
     <email><![CDATA[dzy20@qq.com]]></email>
@@ -13,8 +13,8 @@
   <generator uri="http://zespia.tw/hexo">Hexo</generator>
   <entry>
     <title type="html"><![CDATA[热烈祝贺~本人的博客正式开通。]]></title>
-    <link href="http://www.dengzy.com/2013/12/05/我的第一篇文章/"/>
-    <id>http://www.dengzy.com/2013/12/05/我的第一篇文章/</id>
+    <link href="http://dengzy.com/2013/12/05/我的第一篇文章/"/>
+    <id>http://dengzy.com/2013/12/05/我的第一篇文章/</id>
     <published>2013-12-05T07:31:58.000Z</published>
     <updated>2013-12-11T05:48:16.000Z</updated>
     <content type="html"><![CDATA[<p>对于此博客，希望我以后能坚持写下去，主要是用于Java一些技术应用及一些项目管理等等小经验。</p>
@@ -27,8 +27,8 @@
 <li>然后再是转型的记录方向，学习一些技术和一下项目经理的东西。<br><a id="more"></a><br>好了就写这些，处女作呢。</li>
 </ul>
 ]]></content>
-    <category scheme="http://www.dengzy.com/tags/JAVA/" term="JAVA"/>
-    <category scheme="http://www.dengzy.com/tags/博客/" term="博客"/>
-    <category scheme="http://www.dengzy.com/tags/文章/" term="文章"/>
+    <category scheme="http://dengzy.com/tags/JAVA/" term="JAVA"/>
+    <category scheme="http://dengzy.com/tags/博客/" term="博客"/>
+    <category scheme="http://dengzy.com/tags/文章/" term="文章"/>
   </entry>
 </feed>
