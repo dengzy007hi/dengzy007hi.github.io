@@ -4,7 +4,7 @@
   <subtitle><![CDATA[桃花坞里桃花庵，桃花庵下桃花仙。桃花仙人种桃树，又摘桃花换酒钱。]]></subtitle>
   <link href="http://dengzy.com/atom.xml" rel="self"/>
   <link href="http://dengzy.com"/>
-  <updated>2013-12-17T06:51:27.109Z</updated>
+  <updated>2013-12-17T06:52:28.261Z</updated>
   <id>http://dengzy.com/</id>
   <author>
     <name><![CDATA[BambooJN]]></name>
@@ -16,7 +16,7 @@
     <link href="http://dengzy.com/2013/12/17/使用hexo搭建博客域名/"/>
     <id>http://dengzy.com/2013/12/17/使用hexo搭建博客域名/</id>
     <published>2013-12-17T03:25:52.000Z</published>
-    <updated>2013-12-17T06:50:56.000Z</updated>
+    <updated>2013-12-17T06:52:18.000Z</updated>
     <content type="html"><![CDATA[<p>域名的选择，因为身为大华子孙有些问题会导致某些域名咳咳~大家懂的，所以域名只有一个选择“狗爹” <a href="http://www.godaddy.com/about/godaddy-chinese.aspx?isc=bsfndom4" target="_blank">godaddy</a>。</p>
 <p>U.S.A的服务商，价格优惠，另外支持支付宝啊~</p>
 <h1>购买步骤</h1>
@@ -41,6 +41,7 @@
 </ul>
 <p><img src="/imgs/hexo/step5.jpg" alt=""></p>
 ]]></content>
+    <category scheme="http://dengzy.com/tags/Hexo/" term="Hexo"/>
   </entry>
   <entry>
     <title type="html"><![CDATA[Hexo搭建个人博客（一）认识Hexo]]></title>
