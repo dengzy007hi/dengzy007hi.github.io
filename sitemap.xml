@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://dengzy.com/2013/12/17/使用hexo搭建博客域名/</loc>
+    <lastmod>2013-12-17T06:50:56.000Z</lastmod>
+  </url>
+  <url>
+    <loc>http://dengzy.com/2013/12/17/使用hexo搭建个人博客/</loc>
+    <lastmod>2013-12-17T03:23:48.000Z</lastmod>
+  </url>
+  <url>
     <loc>http://dengzy.com/book/index.html</loc>
     <lastmod>2013-12-11T10:18:44.000Z</lastmod>
   </url>

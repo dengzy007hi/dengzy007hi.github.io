@@ -4,13 +4,70 @@
   <subtitle><![CDATA[桃花坞里桃花庵，桃花庵下桃花仙。桃花仙人种桃树，又摘桃花换酒钱。]]></subtitle>
   <link href="http://dengzy.com/atom.xml" rel="self"/>
   <link href="http://dengzy.com"/>
-  <updated>2013-12-12T03:34:30.085Z</updated>
+  <updated>2013-12-17T06:51:27.109Z</updated>
   <id>http://dengzy.com/</id>
   <author>
     <name><![CDATA[BambooJN]]></name>
     <email><![CDATA[dzy20@qq.com]]></email>
   </author>
   <generator uri="http://zespia.tw/hexo">Hexo</generator>
+  <entry>
+    <title type="html"><![CDATA[Hexo搭建个人博客（二）购买域名]]></title>
+    <link href="http://dengzy.com/2013/12/17/使用hexo搭建博客域名/"/>
+    <id>http://dengzy.com/2013/12/17/使用hexo搭建博客域名/</id>
+    <published>2013-12-17T03:25:52.000Z</published>
+    <updated>2013-12-17T06:50:56.000Z</updated>
+    <content type="html"><![CDATA[<p>域名的选择，因为身为大华子孙有些问题会导致某些域名咳咳~大家懂的，所以域名只有一个选择“狗爹” <a href="http://www.godaddy.com/about/godaddy-chinese.aspx?isc=bsfndom4" target="_blank">godaddy</a>。</p>
+<p>U.S.A的服务商，价格优惠，另外支持支付宝啊~</p>
+<h1>购买步骤</h1>
+<p> 1.注册godaddy账号，访问首页，点击<code>Create an account</code><br> 2.在弹出框中输入账号信息，如下图：<br><a id="more"></a><br><img src="/imgs/hexo/注册狗爹.jpg" alt=""></p>
+<p> 3.输入你想要注册的域名搜索，单击<strong>搜索</strong></p>
+<p><img src="/imgs/hexo/search.jpg" alt=""></p>
+<p> 4.如果没有被注册的话，单击<strong>ADD</strong>，然后选择<strong>Domain Only</strong>只购买域名，最后单击<strong>ADD</strong></p>
+<p><img src="/imgs/hexo/adddomain.jpg" alt=""></p>
+<p> 5.单击<code>Proceed to Checkout</code> 进入支付页面,选择购买年数，但后单击右边选择支付钱的类型为<code>CNY￥</code>，然后支付<code>Proceed to Checkout</code> ；</p>
+<p><img src="/imgs/hexo/step1.jpg" alt=""></p>
+<p> 6.注册你的支付信息,支付国家选择<code>China</code>,这样子可以选择<code>支付宝</code>支付</p>
+<p><img src="/imgs/hexo/step2.jpg" alt=""></p>
+<p> 7.确认支付巴拉巴拉 基本一样了</p>
+<p><img src="/imgs/hexo/step3.jpg" alt=""></p>
+<h1>查看域名</h1>
+<ul>
+<li>登录狗爹后，查看你的账号。</li>
+</ul>
+<p><img src="/imgs/hexo/step4.jpg" alt=""></p>
+<ul>
+<li>查看某一个域名的具体信息及设置入口，设置基本不用设置，需要设置的在下一章说明。</li>
+</ul>
+<p><img src="/imgs/hexo/step5.jpg" alt=""></p>
+]]></content>
+  </entry>
+  <entry>
+    <title type="html"><![CDATA[Hexo搭建个人博客（一）认识Hexo]]></title>
+    <link href="http://dengzy.com/2013/12/17/使用hexo搭建个人博客/"/>
+    <id>http://dengzy.com/2013/12/17/使用hexo搭建个人博客/</id>
+    <published>2013-12-17T02:26:01.000Z</published>
+    <updated>2013-12-17T03:23:48.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://zespia.tw/hexo/" title="Hexo官网" target="_blank">Hexo</a>是一个基于Node.js的静态博客程序，可以生态静态网页托管在GitHub上，其作者是来自台湾的<a href="https://github.com/tommy351/hexo" target="_blank">tommy351</a>t童鞋。</p>
+<p>其官网简洁，醒目的一句话阐述了Hexo的优点。</p>
+<blockquote>
+<p> <strong>一个基于Node.js的快速、简单、功能强大的博客框架</strong></p>
+<p> <strong><em>A fast, simple &amp; powerful blog framework,<br>powered by Node.js.</em></strong></p>
+</blockquote>
+<p>我没有用过其他的博客程序，就Hexo来说，有几条非常好：</p>
+<ul>
+<li>支持<a href="http://wowubuntu.com/markdown/" target="_blank">MarkDown语法</a>，书写博客快，排版清晰</li>
+<li>架构轻，文件少，小而精华估计就是说Hexo的吧</li>
+<li>使用用户在持续增多，支持好多博客切换。<br><a id="more"></a><h2>适合人群</h2>
+Hexo博客程序，适合那些爱计算机，爱折腾的童鞋，因为Hexo需要一些环境配置及一些插件的安装及修改，网上有很多的博客都有写搭建Hexo博客程序，多多参考吧~</li>
+</ul>
+<h2>怎样搭建博客</h2>
+<p>接下来的几篇Hexo博客文章会领着大家一步一步搭建一个博客。</p>
+<h2>注意事项</h2>
+<p>本篇文章的环境配置如下图所示：<br><img src="/imgs/hexo/环境.jpg" alt=""></p>
+]]></content>
+    <category scheme="http://dengzy.com/tags/Hexo/" term="Hexo"/>
+  </entry>
   <entry>
     <title type="html"><![CDATA[热烈祝贺~本人的博客正式开通。]]></title>
     <link href="http://dengzy.com/2013/12/05/我的第一篇文章/"/>
